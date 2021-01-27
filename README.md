@@ -2,4 +2,7 @@
 
 合成大西瓜的邦邦版本。合成顺序为：星石->美竹兰->今井莉莎->丸山彩->冰川日菜->冰川纱夜->凑友希那->白金燐子->宇田川亚子->白鹭千圣->牛込里美。随手做的顺序，如对合成顺序有异议，请勿出警。
 
-游玩网址：https://ryujou.github.io/bangdream/
+### 游玩网址： **https://ryujou.github.io/bangdream/** 或 **https://ryujou.gitee.io/bangdream/** 
+
+        
+
